@@ -83,7 +83,7 @@ npm start
 
 ## 📌 Future Improvements
 
-- Payment gateway integration (e.g., Stripe)
+- Payment gateway integration.
 - Turf availability calendar view
 - Email notifications for booking confirmation
 - Responsive PWA version
