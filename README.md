@@ -19,7 +19,7 @@ A full-stack **Turf Booking System** built using the **MERN stack** that allows 
 
 **Frontend:**
 - React.js
-- Tailwind CSS / Bootstrap (specify if used)
+- Tailwind CSS
 - Axios
 - React Router DOM
 
